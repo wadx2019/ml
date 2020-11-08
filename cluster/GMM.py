@@ -193,3 +193,4 @@ if __name__=="__main__":
     plt.figure(2)
     plt.scatter(X[:,0],X[:,1],c=y_hat)
     plt.show()
+    
